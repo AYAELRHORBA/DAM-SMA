@@ -1,3 +1,4 @@
+out/ 
 bin/ 
-.classpath 
-.project 
+*.class 
+lib/ 
